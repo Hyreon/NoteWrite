@@ -1,0 +1,7 @@
+name: NoteWrite
+main: hyreon.notes.Notes
+version: 1.4
+commands:
+  note:
+    description: Writes on paper.
+    usage: Hold paper and right-click.
